@@ -48,7 +48,7 @@ Nu kunnen we de statistieken van seizoen 2019 ernaast leggen en bekijken wie er 
 
 **Dus wanneer we aannemen dat er in de montage van seizoen 2018 en 2019 ongeveer dezelfde afwegingen zijn gemaakt en onze  stelling aannemelijk is, zal *** de Mol zijn van seizoen 2019.**
 
-Volgende week zullen we onthullen wie de Mol is.
+Volgende week zullen we onthullen wie volgens mij de Mol is.
 
 Uiteraard zou het mooi zijn om de gehele historie van WIDM te analyseren, maar de aanname dat de montage hetzelfde is door de tijd heen is minder aannemelijk. 
 
