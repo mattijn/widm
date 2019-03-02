@@ -42,13 +42,11 @@ Voorkomen deelnemers 2018 (%)             |  Voorkomen deelnemers 2019 (%)
 :-------------------------:|:-------------------------:
 ![2018](img/widm_2018_df.png)  |  ![2019](img/widm_2019_df.png)
 
-Wanneer we kijken naar de resultaten van seizoen 2018 zien we dan ook dat Jan daadwerkelijk minder vaak is gedetecteerd. Niet als minste, dat was Ron die er als eerste uitlag. Maar wel aan de lage kant. Laten we dat vasthouden als gegeven: de montage laat de Mol significant minder vaak in beeld, maar niet de minste.
+Wanneer we kijken naar de resultaten van seizoen 2018 zien we dan ook dat Jan daadwerkelijk minder vaak is gedetecteerd. Niet als minste, dat was Ron die er als eerste uitlag. Maar wel aan de lage kant. Laten we dat vasthouden als gegeven: de montage laat de Mol significant minder vaak in beeld, maar niet de minste. Op basis van seizoen 2018 komt de Mol op plaats 4 van minst voorkomende deelnemers.
 
-Nu kunnen we de statistieken van seizoen 2019 ernaast leggen en bekijken wie er gemiddeld gezien over de eerste drie afleveringen minder vaak in beeld kwam. 
+Nu kunnen we de statistieken van seizoen 2019 ernaast leggen en bekijken wie er gemiddeld gezien over de eerste drie afleveringen minder vaak in beeld kwam. Wanneer we dan ook kijken naar degene die minder vaak in beeld kwam, maar niet als minste, dan zien we dat Merel op dezelfde plaats van voorkomen staat. 
 
-**Dus wanneer we aannemen dat er in de montage van seizoen 2018 en 2019 ongeveer dezelfde afwegingen zijn gemaakt en onze  stelling aannemelijk is, zal *** de Mol zijn van seizoen 2019.**
-
-Volgende week zullen we onthullen wie volgens mij de Mol is.
+**Dus wanneer we aannemen dat er in de montage van seizoen 2018 en 2019 ongeveer dezelfde afwegingen zijn gemaakt en onze  stelling aannemelijk is, dan denk ik dat Merel de Mol is van seizoen 2019.**
 
 Uiteraard zou het mooi zijn om de gehele historie van WIDM te analyseren, maar de aanname dat de montage hetzelfde is door de tijd heen is minder aannemelijk. 
 
