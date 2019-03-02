@@ -22,7 +22,7 @@ Gezicht karakteristiek Jan             |  Gezicht karakteristiek Merel
 :-------------------------:|:-------------------------:
 ![2018](img/jan_2018.jpg "jan")  |  ![2019](img/merel_2019.jpg "merel")
 
-Via [downloadgemist.nl](http://downloadgemist.nl) is het mogelijk om afleveringen van de publieke omroep te downloaden. Dit heb ik gedaan voor de aflevering 1-3 van seizoen 2018 en 2019.
+Via [downloadgemist.nl](http://downloadgemist.nl) is het mogelijk om afleveringen van de publieke omroep te downloaden (**EDIT**: de dag nadat deze post online kwam is dit niet meer mogelijk). Dit heb ik gedaan voor de aflevering 1-3 van seizoen 2018 en 2019. 
 
 Als voorbereiding tonen we het algoritme 1 foto van elke deelnemer (de foto's zijn afkomstig van de WIDM website [deelnemers 2019](https://wieisdemol.avrotros.nl/home/), [deelnemers 2018](https://wieisdemol.avrotros.nl/archief/#/&filter=season:seizoen%2018%7Ccategories:kandidaten&sort=datetime:desc&page=1&layout=list)). 
 
