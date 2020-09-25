@@ -16,7 +16,7 @@ Jeroen of Ron doen procentueel ook mee om kans te maken als mol.
 
 Voorspelling 2020: Claes is de mol
 
-Fout! Rob was de mol en mogelijk doordat hij een hoed op heeft op de gebruikte avatar-foto niet goed herkend.
+Fout! Rob was de mol en mogelijk doordat hij een hoed op heeft op de gebruikte avatar-foto niet goed herkend in de training.
 
 * * *
 
