@@ -96,4 +96,4 @@ De gebruikte code is open-source en staat hierbij in de repository.
 Dus heb je meer tijd, ga ook lekker aan de slag!
 
 ## Reageren?
-Reacties zijn uiteraard welkom. Stuur me een email op: mattijn.vanhoek@hkv.nl
+Reacties zijn uiteraard welkom. Stuur me een email op: mattijn@gmail.com
