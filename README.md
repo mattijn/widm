@@ -6,6 +6,8 @@ Succes allemaal met raden!
 
 Voorspelling 2022: op basis van deze berekende stats is Kim-lian de mol.
 
+* * * 
+
 ### WIDM 2021
 
 Trek vooral je eigen conclusies!
